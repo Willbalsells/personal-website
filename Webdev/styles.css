@@ -1,0 +1,30 @@
+#photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 3%;
+}
+header.top-bar {
+    width: 100%;
+    height: auto;
+}
+#logo {
+    height: 40px;
+    width: 48px;
+    float: left;
+}
+h1 {
+    font-family: 'Raleway', 'sans-serif';
+    padding-left: 4%;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Raleway', 'sans-serif';
+}
+p {
+    border-left: 2px solid #8E8D8A;
+    font-family: 'Raleway', 'sans-serif';
+    padding-left: 10px;
+}
